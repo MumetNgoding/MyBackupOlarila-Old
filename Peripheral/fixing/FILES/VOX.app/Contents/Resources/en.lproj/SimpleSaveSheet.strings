@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "SimpleSaveSheet"; ObjectID = "1"; */
+"1.title" = "SimpleSaveSheet";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "4"; */
+"4.title" = "Name:";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "8"; */
+"8.title" = "Save";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "10"; */
+"10.title" = "Cancel";

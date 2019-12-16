@@ -1,0 +1,48 @@
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "3XR-mP-hOA"; */
+"3XR-mP-hOA.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "3Xi-63-U6N"; */
+"3Xi-63-U6N.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Next Track"; ObjectID = "5Ek-IW-TyU"; */
+"5Ek-IW-TyU.title" = "Next Track";
+
+/* Class = "NSTextFieldCell"; title = "Decrease Volume"; ObjectID = "Jgn-Gy-4dp"; */
+"Jgn-Gy-4dp.title" = "Decrease Volume";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Q26-rT-fBA"; */
+"Q26-rT-fBA.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "QRA-Nm-k0e"; */
+"QRA-Nm-k0e.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Do you want to use your Apple Remote, Media Buttons, EarPods\n with VOX? Download extension to your preferences"; ObjectID = "Y7K-dL-Rwy"; */
+"Y7K-dL-Rwy.title" = "Do you want to use your Apple Remote, Media Buttons, EarPods\n with VOX? Download extension to your preferences";
+
+/* Class = "NSButtonCell"; title = "Download Extension"; ObjectID = "YOw-1b-zwt"; */
+"YOw-1b-zwt.title" = "Download Extension";
+
+/* Class = "NSTextFieldCell"; title = "Play/Pause"; ObjectID = "Zjx-4W-gFr"; */
+"Zjx-4W-gFr.title" = "Play/Pause";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "bT5-nX-jVr"; */
+"bT5-nX-jVr.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "emN-VA-Dyn"; */
+"emN-VA-Dyn.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Increase Volume"; ObjectID = "gvb-Qd-e54"; */
+"gvb-Qd-e54.title" = "Increase Volume";
+
+/* Class = "NSTextFieldCell"; title = "Setup Global Hotkeys"; ObjectID = "iE9-x6-Lyl"; */
+"iE9-x6-Lyl.title" = "Setup Global Hotkeys";
+
+/* Class = "NSTextFieldCell"; title = "PLEASE NOTE. These hotkeys will be ENABLED regardless of whether or not VOX is active."; ObjectID = "lAL-xj-JGs"; */
+"lAL-xj-JGs.title" = "PLEASE NOTE. These hotkeys will be ENABLED regardless of whether or not VOX is active.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "m9U-l0-wDJ"; */
+"m9U-l0-wDJ.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Previous Track"; ObjectID = "ymj-vo-Q1y"; */
+"ymj-vo-Q1y.title" = "Previous Track";

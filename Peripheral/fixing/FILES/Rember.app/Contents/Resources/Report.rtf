@@ -1,0 +1,85 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf250
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+
+\f0\b\fs36 \cf0 Rember Test Results\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+
+\b0\fs24 \cf0 \
+
+\fs28 TEST_RESULTS\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\fs24 \cf0 \
+
+\b Total built-in memory:
+\b0  BUILT_IN_MEMORY\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li740\fi-740\ql\qnatural\pardirnatural
+\cf0 	This is the total amount of physical memory that the computer has installed.  If this figure is not showing the correct amount of memory there may be a problem with one or more installed DIMMS.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+
+\b Available memory:
+\b0  AVAILABLE_MEMORY MB\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\ql\qnatural\pardirnatural
+\cf0 	Available memory is the amount of physical memory that is currently not in use by any other processes.  All available memory will be used for testing when the "All" option is selected. To increase the amount of available memory, you can restart your computer before testing. If you are familiar with the command line (CLI), you can run memtest (the core of Rember) in single-user mode. See Rember help, or http://www.memtestosx.org for more information.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+
+\b Requested amount:
+\b0  MEMORY_REQUESTED MB\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\ql\qnatural\pardirnatural
+\cf0 	The total amount of memory requested for testing by the Rember application. Not all requested memory can be allocated for testing. See information on "Available memory" for more information.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+
+\b Memory allocated for testing:
+\b0  MEMORY_ALLOCATED MB\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\ql\qnatural\pardirnatural
+\cf0 	This is the total amount of memory that memtest was able to allocate for testing.  See "Available memory" section for more information.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+-------\
+\
+
+\b Loops selected:
+\b0  LOOPS_SELECTED\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li740\fi-740\ql\qnatural\pardirnatural
+\cf0 	Total loops selected by user for testing. All loops should complete when testing is successful. Test failure when the "Continue on Error" preference is selected will cancel tests before this number of loops has been completed. Users can also cancel testing before this number is reached.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 \
+
+\b Loops completed:
+\b0  LOOPS_COMPLETED\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li740\fi-740\ql\qnatural\pardirnatural
+\cf0 	Total loops completed by memtest.  Note that the Rember is not always able to identify how many loops ran.  If there are discrepancies between this and the loops selected, the log should be examined to determine exactly how many loops were performed.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+\cf0 -------\
+\
+
+\b Total execution time: 
+\b0 EXECUTION_TIME seconds\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li740\fi-740\ql\qnatural\pardirnatural
+\cf0 	This is the total amount of time that it took to execute the selected tests. Execution time may vary from system to system, and is provided as a guide for determining how long users can expect tests to run based on the amount of memory installed on the system.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b \cf0 Testing start time:
+\b0  TEST_START_TIME\
+\
+
+\b Testing end time:
+\b0  TEST_END_TIME\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\pardirnatural
+
+\fs20 \cf0 Rember version: REMBER_VERSION Memtest version:MEMTEST_VERSION}

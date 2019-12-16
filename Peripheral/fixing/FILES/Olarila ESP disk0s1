@@ -1,0 +1,26 @@
+#!/bin/bash
+#
+echo "||||||||||||||||||||||||"
+echo "*----------------------*"
+echo "     Welcome `users`    "
+echo "*----------------------*"
+echo "||||||||||||||||||||||||"
+echo "*----------------------*"
+echo "*-----olarila.com------*"
+sudo pmset -a autopoweroff 0
+sudo pmset -a standby 0
+sudo pmset -a hibernatemode 0
+sudo rm /private/var/vm/sleepimage
+sudo touch /private/var/vm/sleepimage
+sudo chflags uchg /private/var/vm/sleepimage
+sudo spctl --master-disable
+sudo newfs_msdos -v EFI -F 32 /dev/disk0s1
+sudo mkdir /Volumes/EFI
+sudo mount_msdos /dev/disk0s1 /Volumes/EFI
+
+echo "*****NOW JUST COPY A OLARILA CLOVER/OPENCORE FOLDER FOR YOUR CHIPSET TO EFI PARTITION MOUNTED IN YOUR DESKTOP*****"
+
+echo "******************************************************************************************"
+echo "Small donations via PayPal for build, patches and guides development would be appreciated."
+echo "******************************************************************************************"
+open -a /Applications/Safari.app "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RYQ6CGUGK5D6S&source=url"

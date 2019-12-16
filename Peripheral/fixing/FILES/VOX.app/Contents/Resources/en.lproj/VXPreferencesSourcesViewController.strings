@@ -1,0 +1,81 @@
+
+/* Class = "NSButtonCell"; title = "Sync with iTunes Library"; ObjectID = "1S6-ji-p8r"; */
+"1S6-ji-p8r.title" = "Sync with iTunes Library";
+
+/* Class = "NSButtonCell"; title = "Notify me when new tracks are available"; ObjectID = "37w-Vg-4sv"; */
+"37w-Vg-4sv.title" = "Notify me when new tracks are available";
+
+/* Class = "NSButtonCell"; title = "Clear default playlist before adding files"; ObjectID = "Den-i4-n1J"; */
+"Den-i4-n1J.title" = "Clear default playlist before adding files";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "FSt-zR-Wmv"; */
+"FSt-zR-Wmv.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Update iTunes library on VOX startup"; ObjectID = "G3d-uv-RMk"; */
+"G3d-uv-RMk.title" = "Update iTunes library on VOX startup";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "I6h-k6-phE"; */
+"I6h-k6-phE.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Add all music and playlist files"; ObjectID = "IL8-Uy-fCW"; */
+"IL8-Uy-fCW.title" = "Add all music and playlist files";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "QSU-pn-hFC"; */
+"QSU-pn-hFC.title" = "Sign Out";
+
+/* Class = "NSTextFieldCell"; title = "Collections:"; ObjectID = "RFg-bP-EBj"; */
+"RFg-bP-EBj.title" = "Collections:";
+
+/* Class = "NSButtonCell"; title = "Enable scrobbling"; ObjectID = "RRT-pa-g7P"; */
+"RRT-pa-g7P.title" = "Enable scrobbling";
+
+/* Class = "NSTextFieldCell"; title = "Your account:"; ObjectID = "TBt-2k-XWE"; */
+"TBt-2k-XWE.title" = "Your account:";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "U4R-2R-b4d"; */
+"U4R-2R-b4d.title" = "Sign In";
+
+/* Class = "NSButtonCell"; title = "Reload iTunes Library Completely"; ObjectID = "VkW-TI-rxF"; */
+"VkW-TI-rxF.title" = "Reload iTunes Library Completely";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "WiT-9P-uwa"; */
+"WiT-9P-uwa.title" = "Sign Out";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YaH-tP-Ifw"; */
+"YaH-tP-Ifw.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Add only the first playlist file available"; ObjectID = "cnI-cd-kUm"; */
+"cnI-cd-kUm.title" = "Add only the first playlist file available";
+
+/* Class = "NSButtonCell"; title = "Keep non-existing files when loading iTunes library"; ObjectID = "g1v-2R-wfn"; */
+"g1v-2R-wfn.title" = "Keep non-existing files when loading iTunes library";
+
+/* Class = "NSTextFieldCell"; title = "Your account:"; ObjectID = "iaJ-Hj-u2I"; */
+"iaJ-Hj-u2I.title" = "Your account:";
+
+/* Class = "NSButtonCell"; title = "Autoload music from folder"; ObjectID = "jDj-N4-H2f"; */
+"jDj-N4-H2f.title" = "Autoload music from folder";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "je9-dS-YLD"; */
+"je9-dS-YLD.title" = "Sign In";
+
+/* Class = "NSTextFieldCell"; title = "SoundCloud:"; ObjectID = "m11-vN-IWd"; */
+"m11-vN-IWd.title" = "SoundCloud:";
+
+/* Class = "NSMenuItem"; title = "Add only music files, ignore playlist files"; ObjectID = "qgJ-Ja-RLu"; */
+"qgJ-Ja-RLu.title" = "Add only music files, ignore playlist files";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qjG-yI-UA9"; */
+"qjG-yI-UA9.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "When you're adding folders to Playlist / Collections:"; ObjectID = "rht-ML-6t9"; */
+"rht-ML-6t9.title" = "When you're adding folders to Playlist / Collections:";
+
+/* Class = "NSTextFieldCell"; title = "Last.fm:"; ObjectID = "u5g-x5-Adi"; */
+"u5g-x5-Adi.title" = "Last.fm:";
+
+/* Class = "NSButtonCell"; title = "Send current track info"; ObjectID = "uUy-e4-lTT"; */
+"uUy-e4-lTT.title" = "Send current track info";
+
+/* Class = "NSTextFieldCell"; title = "iTunes:"; ObjectID = "zTK-Tc-U4F"; */
+"zTK-Tc-U4F.title" = "iTunes:";

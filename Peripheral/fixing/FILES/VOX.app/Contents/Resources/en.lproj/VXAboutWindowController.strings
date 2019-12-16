@@ -1,0 +1,21 @@
+
+/* Class = "NSWindow"; title = "About VOX"; ObjectID = "1"; */
+"1.title" = "About VOX";
+
+/* Class = "NSTextFieldCell"; title = "2014 © Coppertino Inc. All rights reserved"; ObjectID = "162"; */
+"162.title" = "2019 © Coppertino Inc. All rights reserved";
+
+/* Class = "NSTextFieldCell"; title = "VOX Music Player"; ObjectID = "193"; */
+"193.title" = "VOX Music Player";
+
+/* Class = "NSTextFieldCell"; title = "Version 1.5"; ObjectID = "215"; */
+"215.title" = "Version 1.5";
+
+/* Class = "NSButtonCell"; title = "Credits"; ObjectID = "264"; */
+"264.title" = "Credits";
+
+/* Class = "NSButtonCell"; title = "Support"; ObjectID = "279"; */
+"279.title" = "Support";
+
+/* Class = "NSButtonCell"; title = "Website"; ObjectID = "284"; */
+"284.title" = "Website";

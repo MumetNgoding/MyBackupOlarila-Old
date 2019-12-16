@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+
+<dictionary title="Vox Terminology">
+    <suite name="Standard Suite" code="????" description="Common classes and commands for most applications.">
+        <cocoa name="NSCoreSuite" />
+        <class name="application" code="capp" description="The application's top level scripting object.">
+            <cocoa class="NSApplication" />
+            <property name="name" code="pnam" type="text" access="r" description="The name of the application." />
+            <property name="frontmost" code="pisf" type="boolean" access="r" description="Is this the frontmost (active) application?">
+                <cocoa key="isActive" />
+            </property>
+            <property name="version" code="vers" type="text" access="r" description="The version of the application." />
+            <responds-to name="quit">
+                <cocoa method="handleQuitScriptCommand:" />
+            </responds-to>
+        </class>
+        <command name="quit" code="aevtquit" description="Quit an application.">
+            <cocoa class="VXQuitCommand" />
+        </command>
+    </suite>
+    
+    <suite name="Vox Suite" code="voxA" description="Vox Scripting Suite">
+
+        <value-type name="tiff image data" code="snTf" description="Image data in TIFF format.">
+            <cocoa class="NSData" />
+        </value-type>
+        <value-type name="image" code="snIm" description="Image.">
+            <cocoa class="NSImage" />
+        </value-type>
+
+        <class name="application" code="capp" description="The application's top-level scripting object.">
+            <cocoa class="NSApplication" />
+
+            
+            <property name="tiff artwork data" code="trAt" access="r" description="Current track artwork data in TIFF format.">
+                <cocoa key="tiffArtworkData" />
+                <type type="tiff image data" />
+            </property>
+            <property name="artwork image" code="trAi" access="r" description="Current track artwork as an image.">
+                <cocoa key="artworkImage" />
+                <type type="image" />
+            </property>
+            
+            
+            
+            
+            <property name="player state" code="pSta" type="integer" access="r" description="Player state (playing = 1, paused = 0)">
+                <cocoa key="playerState" />
+            </property>
+            
+            <property name="track" code="trNm" type="text" access="r" description="Current track title." />
+            
+            <property name="trackUrl" code="trUr" type="text" access="r" description="Current track URL." />
+            
+            <property name="artist" code="trAr" type="text" access="r" description="Current track artist." />
+            
+            <property name="album artist" code="trAm" type="text" access="r" description="Current track album artist.">
+                <cocoa key="albumArtist" />
+            </property>
+            
+            <property name="album" code="trAl" type="text" access="r" description="Current track album." />
+            
+            <property name="unique ID" code="trUd" type="text" access="r" description="Unique identifier for the current track.">
+                <cocoa key="uniqueID" />
+            </property>
+
+            <property name="current time" code="pCrt" type="real" access="rw" description="The current playback position.">
+                <cocoa key="currentTime" />
+            </property>
+            
+            <property name="total time" code="pTtl" type="real" access="r" description="The total time of the currenty playing track." >
+                <cocoa key="totalTime" />
+            </property>
+            
+            <property name="player volume" code="pVol" type="real" access="rw" description="Player volume (0.0 to 1.0)">
+                <cocoa key="playerVolume" />
+            </property>
+            
+            <property name="repeat state" code="pRpt" type="integer" access="rw" description="Player repeat state (none = 0, repeat one = 1, repeat all = 2)">
+                <cocoa key="repeatState" />
+            </property>
+        </class>
+
+        
+        <command name="pause" code="voxApaus" description="Pause playback.">
+            <cocoa class="VXASPauseCommand" />
+        </command>
+        <command name="play" code="voxAplay" description="Begin playback.">
+            <cocoa class="VXASPlayCommand" />
+        </command>
+        <command name="playpause" code="voxAplps" description="Toggle playback between playing and paused.">
+            <cocoa class="VXASPlayPauseCommand" />
+        </command>
+        <command name="next" code="voxAnext" description="Skip to the next track in the playlist.">
+            <cocoa class="VXASNextCommand" />
+        </command>
+        <command name="previous" code="voxAprev" description="Skip to the previous track in the playlist.">
+            <cocoa class="VXASPreviousCommand" />
+        </command>
+        <command name="shuffle" code="voxAshuf" description="Shuffle the tracks in the playlist.">
+            <cocoa class="VXASShuffleCommand" />
+        </command>
+        <command name="playUrl" code="voxAplur" description="Play specified URL.">
+            <cocoa class="VXASPlayUrlCommand" />
+            <direct-parameter type="text" description="URL to play in string form" />
+        </command>
+        <command name="addUrl" code="voxAadur" description="Add specified URL to playlist">
+            <cocoa class="VXASAddUrlCommand" />
+            <direct-parameter type="text" description="URL to add in string form" />
+        </command>
+
+
+
+        <!-- Rewind forward -->
+        <command name="rewindForward" code="voxArefr" description="Rewind current track forward.">
+            <cocoa class="VXASRewindForwardCommand" />
+        </command>
+        <command name="rewindForwardFast" code="voxAreff" description="Rewind current track forward fast.">
+            <cocoa class="VXASRewindForwardFastCommand" />
+        </command>
+
+        <!-- Rewind backward -->
+        <command name="rewindBackward" code="voxAreba" description="Rewind current track backward.">
+            <cocoa class="VXASRewindBackwardCommand" />
+        </command>
+        <command name="rewindBackwardFast" code="voxArebf" description="Rewind current track backward fast.">
+            <cocoa class="VXASRewindBackwardFastCommand" />
+        </command>
+        
+        <!-- Volume controlls -->
+        <command name="increasVolume" code="voxAvoli" description="Increas volume.">
+            <cocoa class="VXASIncreasVolumeCommand" />
+        </command>
+        <command name="decreaseVolume" code="voxAvold" description="Decrease volume.">
+            <cocoa class="VXASDecreaseVolumeCommand" />
+        </command>
+
+        <!-- Playlist controlls -->
+        <command name="showHidePlaylist" code="voxAplsh" description="Show/Hide playlist.">
+            <cocoa class="VXASShowHidePlaylistCommand" />
+        </command>
+        
+    </suite>
+</dictionary>

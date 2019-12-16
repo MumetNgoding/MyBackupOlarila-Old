@@ -1,0 +1,9 @@
+
+/* Class = "NSTextFieldCell"; title = "Your account: "; ObjectID = "ix0-aV-w0C"; */
+"ix0-aV-w0C.title" = "Your account: ";
+
+/* Class = "NSButtonCell"; title = "Connect to VOX Cloud"; ObjectID = "kiO-Wh-dIq"; */
+"kiO-Wh-dIq.title" = "Connect to VOX Cloud";
+
+/* Class = "NSButtonCell"; title = "Enable VOX Cloud"; ObjectID = "xRD-fG-8SN"; */
+"xRD-fG-8SN.title" = "Enable VOX Cloud";

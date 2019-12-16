@@ -1,0 +1,33 @@
+
+/* Class = "NSWindow"; title = "Sandbox expanding"; ObjectID = "1"; */
+"1.title" = "Sandbox expanding";
+
+/* Class = "NSButtonCell"; title = "Grant access to whole file system"; ObjectID = "33"; */
+"33.title" = "Grant access to whole file system";
+
+/* Class = "NSTextFieldCell"; title = "Music inside this folder requires your permissions:"; ObjectID = "37"; */
+"37.title" = "Music inside this folder requires your permissions:";
+
+/* Class = "NSButtonCell"; title = "FOLDER PATH"; ObjectID = "41"; */
+"41.title" = "FOLDER PATH";
+
+/* Class = "NSTextFieldCell"; title = "or"; ObjectID = "OOb-tu-pWD"; */
+"OOb-tu-pWD.title" = "or";
+
+/* Class = "NSTextFieldCell"; title = "сlick to see the path"; ObjectID = "OQK-0L-LW5"; */
+"OQK-0L-LW5.title" = "сlick to see the path";
+
+/* Class = "NSButtonCell"; title = "Allow VOX to play music from folders"; ObjectID = "SGn-Zw-XlK"; */
+"SGn-Zw-XlK.title" = "Allow VOX to play music from folders";
+
+/* Class = "NSTextFieldCell"; title = "Allow VOX Player to play music from any folder on your Mac: "; ObjectID = "VG0-81-cP7"; */
+"VG0-81-cP7.title" = "Allow VOX Player to play music from any folder on your Mac: ";
+
+/* Class = "NSTextFieldCell"; title = "You can also use the Drag & Drop feature"; ObjectID = "XO7-hz-CqV"; */
+"XO7-hz-CqV.title" = "You can also use the Drag & Drop feature";
+
+/* Class = "NSButtonCell"; title = "Why do you see this window?"; ObjectID = "axd-gg-XXm"; */
+"axd-gg-XXm.title" = "Why do you see this window?";
+
+/* Class = "NSButtonCell"; title = "Restrict VOX to play music from folders"; ObjectID = "m9v-B7-E8q"; */
+"m9v-B7-E8q.title" = "Restrict VOX to play music from folders";

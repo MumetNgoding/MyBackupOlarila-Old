@@ -1,0 +1,57 @@
+
+/* Class = "NSButtonCell"; title = "Use VOX for all file types"; ObjectID = "7im-wv-WZq"; */
+"7im-wv-WZq.title" = "Use VOX for all file types";
+
+/* Class = "NSButtonCell"; title = "Save playing position"; ObjectID = "8UU-Zc-a7L"; */
+"8UU-Zc-a7L.title" = "Save playing position";
+
+/* Class = "NSButtonCell"; title = "Quit application after closing window"; ObjectID = "8WT-9q-dSX"; */
+"8WT-9q-dSX.title" = "Quit application after closing window";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "G73-rV-nZ8"; */
+"G73-rV-nZ8.title" = "Other:";
+
+/* Class = "NSButtonCell"; title = "Pause on ejecting headphone jack"; ObjectID = "GrJ-Rs-Y4D"; */
+"GrJ-Rs-Y4D.title" = "Pause on ejecting headphone jack";
+
+/* Class = "NSButtonCell"; title = "Pause VOX on Skype Call"; ObjectID = "JWL-32-kgC"; */
+"JWL-32-kgC.title" = "Pause VOX on Skype Call";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "KoE-mr-HI9"; */
+"KoE-mr-HI9.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Behavior:"; ObjectID = "QDK-VJ-HGS"; */
+"QDK-VJ-HGS.title" = "Behavior:";
+
+/* Class = "NSButtonCell"; title = "Automatically download missing artwork"; ObjectID = "SXg-Sf-s4O"; */
+"SXg-Sf-s4O.title" = "Automatically download missing artwork";
+
+/* Class = "NSButtonCell"; title = "Enable auto-charset detection"; ObjectID = "Wgh-mE-73B"; */
+"Wgh-mE-73B.title" = "Enable auto-charset detection";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ahE-JZ-Egg"; */
+"ahE-JZ-Egg.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "fWu-UI-xoT"; */
+"fWu-UI-xoT.title" = "General:";
+
+/* Class = "NSButtonCell"; title = "Keep player window on all spaces"; ObjectID = "gKL-ER-E51"; */
+"gKL-ER-E51.title" = "Keep player window on all spaces";
+
+/* Class = "NSButtonCell"; title = "Show warning when deleting files"; ObjectID = "nFB-XS-tLM"; */
+"nFB-XS-tLM.title" = "Show warning when deleting files";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ouK-JF-coj"; */
+"ouK-JF-coj.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Always on top of all windows"; ObjectID = "qDf-xN-gkI"; */
+"qDf-xN-gkI.title" = "Always on top of all windows";
+
+/* Class = "NSButtonCell"; title = "Send anonymous statistic information"; ObjectID = "slH-MI-sca"; */
+"slH-MI-sca.title" = "Send anonymous statistic information";
+
+/* Class = "NSButtonCell"; title = "Fade on Play/Pause/Skip"; ObjectID = "wWK-xa-gNu"; */
+"wWK-xa-gNu.title" = "Fade on Play/Pause/Skip";
+
+/* Class = "NSButtonCell"; title = "Use VOX for iTunes unsupported files only"; ObjectID = "yon-dd-ebg"; */
+"yon-dd-ebg.title" = "Use VOX for iTunes unsupported files only";

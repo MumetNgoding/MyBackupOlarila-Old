@@ -1,0 +1,159 @@
+
+/* Class = "NSMenuItem"; title = "Chu Moy"; ObjectID = "0TU-S4-CdR"; */
+"0TU-S4-CdR.title" = "Chu Moy";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "0n9-vu-j2T"; */
+"0n9-vu-j2T.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "5000 ms"; ObjectID = "2xB-6L-syY"; */
+"2xB-6L-syY.title" = "5000 ms";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "5AV-2o-ZLA"; */
+"5AV-2o-ZLA.title" = "Box";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5eD-Vx-NGl"; */
+"5eD-Vx-NGl.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "6c9-0S-zcs"; */
+"6c9-0S-zcs.title" = "100%";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "8Ps-Q5-YiH"; */
+"8Ps-Q5-YiH.title" = "None";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "9jc-k5-18G"; */
+"9jc-k5-18G.title" = "Default";
+
+/* Class = "NSTextFieldCell"; title = "Right"; ObjectID = "AA0-RG-HAa"; */
+"AA0-RG-HAa.title" = "Right";
+
+/* Class = "NSMenuItem"; title = "Before EQ and Effects"; ObjectID = "CTi-mK-xVW"; */
+"CTi-mK-xVW.title" = "Before EQ and Effects";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "DTA-qL-hVZ"; */
+"DTA-qL-hVZ.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Volume Limit:"; ObjectID = "EI9-te-dq1"; */
+"EI9-te-dq1.title" = "Volume Limit:";
+
+/* Class = "NSButtonCell"; title = "Manually start each track"; ObjectID = "Ei2-iz-aXn"; */
+"Ei2-iz-aXn.title" = "Manually start each track";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "IeK-FW-f6n"; */
+"IeK-FW-f6n.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Convert Stereo to multiple channels"; ObjectID = "JKg-Tc-29n"; */
+"JKg-Tc-29n.title" = "Convert Stereo to multiple channels";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Center"; ObjectID = "KlE-KU-iCH"; */
+"KlE-KU-iCH.placeholderString" = "Center";
+
+/* Class = "NSTextFieldCell"; title = "- 2 sec"; ObjectID = "LQT-Gf-9wP"; */
+"LQT-Gf-9wP.title" = "- 2 sec";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "OGK-s8-OwW"; */
+"OGK-s8-OwW.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "OSW-4X-J7a"; */
+"OSW-4X-J7a.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "Multichannel"; ObjectID = "P6j-TK-xbh"; */
+"P6j-TK-xbh.title" = "Multichannel";
+
+/* Class = "NSTextFieldCell"; title = "BS2B Preset:"; ObjectID = "Pqn-9B-Gse"; */
+"Pqn-9B-Gse.title" = "BS2B Preset:";
+
+/* Class = "NSButtonCell"; title = "Obtain Exclusive Access (Hog Mode)"; ObjectID = "TdX-tv-SWX"; */
+"TdX-tv-SWX.title" = "Obtain Exclusive Access (Hog Mode)";
+
+/* Class = "NSTextFieldCell"; title = "Does not affect system default devices"; ObjectID = "UZ8-5X-qCh"; */
+"UZ8-5X-qCh.title" = "Does not affect system default devices";
+
+/* Class = "NSTextFieldCell"; title = "Warning! This option may cause excessive memory usage"; ObjectID = "Uyk-3i-dWh"; */
+"Uyk-3i-dWh.title" = "Warning! This option may cause excessive memory usage";
+
+/* Class = "NSButtonCell"; title = "Synchronize Sample Rate with player"; ObjectID = "Xgg-uc-yNI"; */
+"Xgg-uc-yNI.title" = "Synchronize Sample Rate with player";
+
+/* Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "Yly-VQ-ZHZ"; */
+"Yly-VQ-ZHZ.title" = "Output:";
+
+/* Class = "NSTextFieldCell"; title = "200 ms"; ObjectID = "ZyY-9h-0Uk"; */
+"ZyY-9h-0Uk.title" = "200 ms";
+
+/* Class = "NSMenuItem"; title = "Jan Meier"; ObjectID = "ahj-Ey-F32"; */
+"ahj-Ey-F32.title" = "Jan Meier";
+
+/* Class = "NSButtonCell"; title = "Try to load music files fully into memory"; ObjectID = "bq8-l3-8bl"; */
+"bq8-l3-8bl.title" = "Try to load music files fully into memory";
+
+/* Class = "NSTextFieldCell"; title = "Priority:"; ObjectID = "cOi-Zb-wMI"; */
+"cOi-Zb-wMI.title" = "Priority:";
+
+/* Class = "NSButtonCell"; title = "Enable"; ObjectID = "coC-fc-3La"; */
+"coC-fc-3La.title" = "Enable";
+
+/* Class = "NSTextFieldCell"; title = "Gap/\nOverlap:"; ObjectID = "dM0-Mg-pJ4"; */
+"dM0-Mg-pJ4.title" = "Gap/\nOverlap:";
+
+/* Class = "NSMenuItem"; title = "Mono"; ObjectID = "j7l-Nb-uuH"; */
+"j7l-Nb-uuH.title" = "Mono";
+
+/* Class = "NSMenuItem"; title = "System Default"; ObjectID = "lqK-D6-SjZ"; */
+"lqK-D6-SjZ.title" = "System Default";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "mVA-SL-Vjh"; */
+"mVA-SL-Vjh.title" = "Box";
+
+/* Class = "NSSegmentedCell"; nEr-h7-hhc.ibShadowedLabels[0] = "Basic"; ObjectID = "nEr-h7-hhc"; */
+"nEr-h7-hhc.ibShadowedLabels[0]" = "Basic";
+
+/* Class = "NSSegmentedCell"; nEr-h7-hhc.ibShadowedLabels[1] = "Advanced"; ObjectID = "nEr-h7-hhc"; */
+"nEr-h7-hhc.ibShadowedLabels[1]" = "Advanced";
+
+/* Class = "NSTextFieldCell"; title = "Channels:"; ObjectID = "oEQ-lu-O2Y"; */
+"oEQ-lu-O2Y.title" = "Channels:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ojB-cf-tbX"; */
+"ojB-cf-tbX.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "200%"; ObjectID = "q3l-V0-bgb"; */
+"q3l-V0-bgb.title" = "200%";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "s0s-eR-k3m"; */
+"s0s-eR-k3m.title" = "Box";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "sBd-9n-xqf"; */
+"sBd-9n-xqf.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Left"; ObjectID = "ssP-ER-NWC"; */
+"ssP-ER-NWC.title" = "Left";
+
+/* Class = "NSTextFieldCell"; title = "200 ms"; ObjectID = "tVt-im-dMJ"; */
+"tVt-im-dMJ.title" = "200 ms";
+
+/* Class = "NSTextFieldCell"; title = "Autopause:"; ObjectID = "uE1-ue-jMJ"; */
+"uE1-ue-jMJ.title" = "Autopause:";
+
+/* Class = "NSMenuItem"; title = "After EQ and Effects"; ObjectID = "up2-Fb-Sue"; */
+"up2-Fb-Sue.title" = "After EQ and Effects";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "upY-gQ-EOa"; */
+"upY-gQ-EOa.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "(Overlap)"; ObjectID = "w6i-YI-s4s"; */
+"w6i-YI-s4s.title" = "(Overlap)";
+
+/* Class = "NSTextFieldCell"; title = "+ 10 sec"; ObjectID = "wEc-fO-Xlh"; */
+"wEc-fO-Xlh.title" = "+ 10 sec";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "wck-3s-1CT"; */
+"wck-3s-1CT.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Restore Default Settings"; ObjectID = "xJ0-5U-9Ud"; */
+"xJ0-5U-9Ud.title" = "Restore Default Settings";
+
+/* Class = "NSTextFieldCell"; title = "Balance:"; ObjectID = "yfE-ar-mXT"; */
+"yfE-ar-mXT.title" = "Balance:";
+
+/* Class = "NSTextFieldCell"; title = "Buffer:"; ObjectID = "zw2-a0-Y3o"; */
+"zw2-a0-Y3o.title" = "Buffer:";

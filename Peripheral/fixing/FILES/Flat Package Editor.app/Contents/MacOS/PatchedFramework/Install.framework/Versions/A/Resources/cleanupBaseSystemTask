@@ -1,0 +1,13 @@
+#!/bin/sh
+# Copyright 2009 Apple Inc.. All rights reserved.
+
+CLEANUP_TOOL='/var/db/cleanupBaseSystem'
+LAUNCHD_PLIST='/System/Library/LaunchDaemons/com.apple.installer.cleanup.plist'
+
+if [ -e "${CLEANUP_TOOL}" ]; then
+   ${CLEANUP_TOOL}
+   rm "${CLEANUP_TOOL}"
+fi
+
+rm "${LAUNCHD_PLIST}"
+rm "$0"

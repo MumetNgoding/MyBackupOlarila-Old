@@ -1,0 +1,21 @@
+
+/* Class = "NSPanel"; title = "InfoWindow"; ObjectID = "1"; */
+"1.title" = "InfoWindow";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "10"; */
+"10.title" = "Multiline Label";
+
+/* Class = "NSTextFieldCell"; title = "BassInfo"; ObjectID = "24"; */
+"24.title" = "BassInfo";
+
+/* Class = "NSTextFieldCell"; title = "Current Audio Info"; ObjectID = "28"; */
+"28.title" = "Current Audio Info";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "37"; */
+"37.title" = "Multiline Label";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "55"; */
+"55.title" = "Multiline Label";
+
+/* Class = "NSTextFieldCell"; title = "Current Track Info"; ObjectID = "65"; */
+"65.title" = "Current Track Info";

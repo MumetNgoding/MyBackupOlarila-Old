@@ -1,0 +1,69 @@
+
+/* Class = "NSMenuItem"; title = "Disabled"; ObjectID = "3Xc-KQ-U2H"; */
+"3Xc-KQ-U2H.title" = "Disabled";
+
+/* Class = "NSButtonCell"; title = "Show artwork in Dock"; ObjectID = "52Y-Qo-wAI"; */
+"52Y-Qo-wAI.title" = "Show artwork in Dock";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Dbe-RV-X5M"; */
+"Dbe-RV-X5M.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Artist then Album (with animation)"; ObjectID = "DkH-gN-UZM"; */
+"DkH-gN-UZM.title" = "Artist then Album (with animation)";
+
+/* Class = "NSMenuItem"; title = "Show When Application is Active"; ObjectID = "EyH-zb-s9Y"; */
+"EyH-zb-s9Y.title" = "Show When Application is Active";
+
+/* Class = "NSTextFieldCell"; title = "Menu Bar:"; ObjectID = "Fmc-YY-1UV"; */
+"Fmc-YY-1UV.title" = "Menu Bar:";
+
+/* Class = "NSMenuItem"; title = "Always Show Artwork"; ObjectID = "Lz5-jQ-54k"; */
+"Lz5-jQ-54k.title" = "Always Show Artwork";
+
+/* Class = "NSTextFieldCell"; title = "Notifications:"; ObjectID = "TtW-8y-1ox"; */
+"TtW-8y-1ox.title" = "Notifications:";
+
+/* Class = "NSButtonCell"; title = "Use single menu bar control"; ObjectID = "UFR-pn-wBa"; */
+"UFR-pn-wBa.title" = "Use single menu bar control";
+
+/* Class = "NSButtonCell"; title = "Show menu bar controls"; ObjectID = "Whp-S4-twh"; */
+"Whp-S4-twh.title" = "Show menu bar controls";
+
+/* Class = "NSTextFieldCell"; title = "Dock:"; ObjectID = "XD1-tr-p4F"; */
+"XD1-tr-p4F.title" = "Dock:";
+
+/* Class = "NSMenuItem"; title = "Notification Center"; ObjectID = "Yc3-D8-Drt"; */
+"Yc3-D8-Drt.title" = "Notification Center";
+
+/* Class = "NSMenuItem"; title = "Show When Application is Inactive"; ObjectID = "bUr-hc-YB0"; */
+"bUr-hc-YB0.title" = "Show When Application is Inactive";
+
+/* Class = "NSTextFieldCell"; title = "Mini Player:"; ObjectID = "bmO-IN-q77"; */
+"bmO-IN-q77.title" = "Mini Player:";
+
+/* Class = "NSMenuItem"; title = "Artist with Album (no animation)"; ObjectID = "cDs-rl-hLU"; */
+"cDs-rl-hLU.title" = "Artist with Album (no animation)";
+
+/* Class = "NSButtonCell"; title = "Show colored single menu bar icon"; ObjectID = "d4o-5x-dOk"; */
+"d4o-5x-dOk.title" = "Show colored single menu bar icon";
+
+/* Class = "NSButtonCell"; title = "Show Dock icon"; ObjectID = "dgP-yx-Mwr"; */
+"dgP-yx-Mwr.title" = "Show Dock icon";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "fRh-1h-PP6"; */
+"fRh-1h-PP6.title" = "Box";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "gQU-oG-gi5"; */
+"gQU-oG-gi5.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "kNz-4t-dv9"; */
+"kNz-4t-dv9.title" = "OtherViews";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "mKh-Qg-ZKL"; */
+"mKh-Qg-ZKL.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "q60-nR-MYr"; */
+"q60-nR-MYr.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Never Show Artwork"; ObjectID = "s44-z8-Axm"; */
+"s44-z8-Axm.title" = "Never Show Artwork";

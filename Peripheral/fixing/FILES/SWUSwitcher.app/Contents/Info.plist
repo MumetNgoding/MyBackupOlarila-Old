@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>NSHumanReadableCopyright</key>
+  <string>Copyright © 2015-2018 cvad-soft</string>
+  <key>CFBundleShortVersionString</key>
+  <string>1.0.6</string>
+  <key>LSMinimumSystemVersion</key>
+  <string>10.8</string>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>English</string>
+  <key>CFBundleExecutable</key>
+  <string>SWUSwitcher</string>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundleIconFile</key>
+  <string>Icon.icns</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleSignature</key>
+  <string>PURE</string>
+  <key>CFBundleVersion</key>
+  <string>1.0.6</string>
+  <key>CSResourcesFileMapped</key>
+  <true/>
+  <key>NSHighResolutionCapable</key>
+  <true/>
+</dict>
+</plist>
